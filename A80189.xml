@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonell Poyers forces in Wales totally routed. By the Parliaments forces commanded by Collonel Horton, who took prisoners, Major Gen. Stradling. Collonel Philips. Collonel Buts. Their quartermaster generall. 2 lieutenant colonels. 3 majors. 140 captains, and other officers. Many country gentlemen. 300 common souldiers. 400 armes. 1200 horse. Many slaine. All their colours, ammunition, bag and baggage taken. Major Gen. Laughorn, and some other officers escaped, but all that got away were so dispiersed, that there is not 10 to be found together. Certified by letters to the Parliament, ordered to be printed; and confirmed by the relation of Major Bethel, and others which were actually in the service. May 11. 1648. Imprimatur Gilb. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80189</idno>
+            <idno type="STC">Wing C5411</idno>
+            <idno type="STC">Thomason E441_26</idno>
+            <idno type="STC">ESTC R204906</idno>
+            <idno type="EEBO-CITATION">99864355</idno>
+            <idno type="PROQUEST">99864355</idno>
+            <idno type="VID">161681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161681)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonell Poyers forces in Wales totally routed. By the Parliaments forces commanded by Collonel Horton, who took prisoners, Major Gen. Stradling. Collonel Philips. Collonel Buts. Their quartermaster generall. 2 lieutenant colonels. 3 majors. 140 captains, and other officers. Many country gentlemen. 300 common souldiers. 400 armes. 1200 horse. Many slaine. All their colours, ammunition, bag and baggage taken. Major Gen. Laughorn, and some other officers escaped, but all that got away were so dispiersed, that there is not 10 to be found together. Certified by letters to the Parliament, ordered to be printed; and confirmed by the relation of Major Bethel, and others which were actually in the service. May 11. 1648. Imprimatur Gilb. Mabbott.</title>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>"The declaration of Colonell Poyer, &amp;c" (A2v-A3v) is a reprinting of: The declaration of Col. Poyer, and Col. Powel, and the officers and soldiers under their command, which they desired to be published to the whole kingdome.</note>
+                  <note>Imperfect: faded print and show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyer, John, d. 1649 --  Early works to 1800.</term>
+               <term>Pembroke Castle (Wales) --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161681:1" rendition="simple:additions"/>
+            <p>COLONELL POYERS FORCES IN WALES TOTALLY ROUTED.</p>
+            <p>By the Parliaments Forces commanded by Collonel <hi>Horton,</hi> who took Priſoners,
+<list>
+                  <item>
+                     <hi>Major Gen. Stradling.</hi>
+                  </item>
+                  <item>
+                     <hi>Collonel Philips.</hi>
+                  </item>
+                  <item>
+                     <hi>Collonel Buls.</hi>
+                  </item>
+                  <item>
+                     <hi>Their Quartermaſter Generall.</hi>
+                  </item>
+                  <item>2 <hi>Lieutenant Colonels.</hi>
+                  </item>
+                  <item>3 <hi>Majors.</hi>
+                  </item>
+                  <item>140 <hi>Captains, and other Offi<g ref="char:EOLhyphen"/>cers.</hi>
+                  </item>
+                  <item>
+                     <hi>Many Country Gentlemen.</hi>
+                  </item>
+                  <item>3000 <hi>Common ſouldiers.</hi>
+                  </item>
+                  <item>4000 <hi>Armes.</hi>
+                  </item>
+                  <item>1200 <hi>Horſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Many ſlaine.</hi>
+                  </item>
+                  <item>
+                     <hi>All their Colours, Ammuniti<g ref="char:EOLhyphen"/>on, Bag and Baggage taken.</hi> Major Gen. Laughorn, <hi>and ſome other Officers eſcaped, but all that got away were ſo diſpierſed, that there is not</hi> 10 <hi>to be found together.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Certified by Letters to the Parliament, ordered to be prin<g ref="char:EOLhyphen"/>ted; and confirmed by the Relation of Major <hi>Bethel,</hi> and others which were actually in the ſervice.</p>
+            <p>
+               <hi>May</hi> 11. 1648.</p>
+            <p>
+               <hi>Imprimatur</hi> Gilb. Mabbott.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>B.A.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161681:2"/>
+            <pb n="1" facs="tcp:161681:2"/>
+            <head>A LETTER Concerning the proceed ngs in WALES</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>ON Munday the 8. of this inſtant <hi>May,</hi> Lieut. Gen. <hi>Cromwell</hi> had a Randezvouz of thoſe Regments which are deſigned for him againſt <hi>Poyer,</hi> neere <hi>Glouceſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> and although at the firſt there was ſome diſcon<g ref="char:EOLhyphen"/>tent for want of money, yet after ſome ſatisfaction given that way, both Horſe and Foot were unanimouſly for this expedition.</p>
+            <p>The Lieut. Gen, and the reſt of the Field-Officers paſſed from Regiment to Regiment, and made a ſpeech, Declaring to the whole Briggade, the grounds and reaſons of their pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:161681:3"/>march, and neceſſity of joyning together as one man, to ſuppreſſe that party under Poyer and Powel, who endeavo<g ref="char:EOLhyphen"/>red to begin a new war, and diſturb the peace of the whole Kingdom.</p>
+            <p>There being at this time preſent in the field 6500. and odd, horſe and foot, they ecchoed forth with loud voyce, &amp; elevated ſpirit that they would all with read<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs &amp; cheer<g ref="char:EOLhyphen"/>fulneſs march forwards on this deſign, and adventure their lives for the Parliament, and preſervation of the Kingdom a<g ref="char:EOLhyphen"/>gainſt all oppo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, under the command and conduct of their reſpective Officers.</p>
+            <p>All things thus ſecretly compoſed in love and readineſſe, to give obedience to commands, the whole Briggard was drawn to ſeverall quarters that n g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, having or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers given to meet againe at 6 of the clocke the next morning and ſo to march forwards by <hi>Monmouth</hi> to joyn w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th col. <hi>Horton,</hi> &amp; ſo to ingage the enemy to fight, or drive them into corners.</p>
+            <p>This week Letters came hither out of North-Wales, ſet<g ref="char:EOLhyphen"/>ting forth the good affections of the Gentry in thoſe parts to the Parliament, and inviting his Excellencies Forces that way, aſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uring them, that they will be ayding and aſſiſt ng them for the reducing of Poyer, and thoſe that are joyned with him.</p>
+            <p>Lieut. Gen. <hi>Cromwell</hi> its thought will be joyned with col. <hi>Horton</hi> w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thin 3 or 4 dayes; by the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext wee home to heare good newes from thence <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd at preſent I hope this is ſuffi<g ref="char:EOLhyphen"/>cient to ſtop the mouths of thoſe which have raiſed a Re<g ref="char:EOLhyphen"/>port that the Lieut. Gen. was either in <hi>London,</hi> or come back wounded to <hi>Winſor.</hi>
+            </p>
+            <p>This by way of d greſſion, from the Intelligence I was writing, but I ſhall here return again to that of Wales, wherein this is further to be obſerved, hat as Noth-Wales are generally affected to the Parliament and Army (as I ſaid
+<pb facs="tcp:161681:3"/>before) yet South-Wales for the moſt part ſeeme to bee quite other waye, and a Declaration is drawn up and pub<g ref="char:EOLhyphen"/>liſhed amongſt them, to t is effect.</p>
+            <div type="declaration">
+               <head>A Declaration of the Knights, Gentry, and Yeomen of the Principality of Wales.</head>
+               <p>
+                  <hi>THat we his Majesties true and loyall ſubj<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts for reaſons before ſet forth, doe hereby declare, that we will effectually endeavour to reſtore the Kings Majeſty and his Royall Poſterity to all their rights &amp; priviledges, and the Book of</hi> Common-prayer, <hi>and the ſetting of Religion, as it was eſtabliſhed in the time of Queen</hi> Elizabeth, <hi>King</hi> James, <hi>and the be<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<g ref="char:EOLhyphen"/>ning of his now Majeſties Reign, againſt all that doe, or ſhall oppoſe the ſame.</hi>
+               </p>
+               <p>The 9. or this inſtant <hi>May</hi> divers Gentlemen of the towne of <hi>Reading</hi> came to the Head quarters at <hi>Winſor,</hi> and ac<g ref="char:EOLhyphen"/>quainted the Generall, that the malignant party of that town beat up drums for <hi>God and King Charles,</hi> that their par<g ref="char:EOLhyphen"/>ty was like to increaſe, unleſſe ſome ſpeedy, cours<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were taken to ſuppreſſe them, &amp;c. Whereupon <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Excellency ordered ſome horſe to go thither, and appeaſe that tumult, which was done accordingly.</p>
+               <p>The Generall is now preparing for the North, from whenc we hear of very ſad complaints. This is all for the preſent, from</p>
+               <closer>
+                  <signed>Your aſsured friend, <hi>T. M.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Winſor</hi> 
+                     <date>10 <hi>of May,</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:161681:4"/>
+            <head>The Copy of a Letter from <hi>Newcaſtle.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>Since the taking of <hi>Barwick,</hi> ſir <hi>Marmad. Lang<g ref="char:EOLhyphen"/>dale</hi> writ a complemental Letter to Capt. <hi>Batten.</hi> Governour of the Holy-Iſland, deſiring him to keep the Caſtle for the King; the Captain imme<g ref="char:EOLhyphen"/>diatly ſent a copy thereof to ſir <hi>Arthur Haſterigg,</hi> who immediatly thereupon ſent 30 more Soul<g ref="char:EOLhyphen"/>diers to the Captaine, for better ſecuring of the Fort: the Frigot which was ſent to <hi>Barwick</hi> upon her comming into the Harbour, diſcharged two broad ſides againſt the towne, which made them within thinke all was not like to bee well with them; our Governor likewiſe on the firſt inſtant, mounted a conſiderable number of musketiers on horſeback, &amp; ſent them to ſecure the Warkworth caſtle, a ſtrong hold that belongeth to the Earl of <hi>Northumberland</hi> ſcituate neere the Sea, upon the mouth of the River of Coquet, which runneth thorow the middle of <hi>Northumberland.</hi>
+            </p>
+            <p>The popiſh and malignant party flocke apace forth of theſe Counties, to <hi>Barwick,</hi> no doubt Royal Presbyter, where thoſe that hold the town are very active, ſending forth ſummons, to bee at a
+<pb facs="tcp:161681:4"/>Randezvouz upon Hedgley Moor, 4 or 5 miles from <hi>Alewich,</hi> to be there liſted for the ſervice of the King Colonel <hi>Grey</hi> having alſo ſummoned all my Lord <hi>Grey</hi> of <hi>Walk</hi> his tenants to joyn with them.</p>
+            <p>The High Sheriffe of <hi>Northumberland</hi> and ma<g ref="char:EOLhyphen"/>ny Juſtices of peace, are inforced to fly to New<g ref="char:EOLhyphen"/>caſtle for the ſafe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of their perſons, leaving their houſes and goods expoſed to the danger of the e<g ref="char:EOLhyphen"/>nemy.</p>
+            <p>At the meeting laſt week of the ſeverall Nor<g ref="char:EOLhyphen"/>thern Counties at Richmond, it is agreed that ſome of Colonel <hi>Lamberts</hi> troopes of horſe ſtay in Yorkſhire, and the reſt about a thouſand to bee drawn down to <hi>Northumberland</hi> and <hi>Cumberland.</hi> This town being at a generall meeting, deſired to declare, whether they would ſtand for the Parlia<g ref="char:EOLhyphen"/>ment, &amp;c.</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle</hi> 
+                  <date>6. <hi>of May,</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <p>Letters came to the Houſe from Col. <hi>Horton,</hi> dated <hi>May</hi> 9. brought by Major <hi>Bethel,</hi> certifying that the ſaid colonel <hi>Horton</hi> and the forces under his command, had obtained a great Victory againſt the Enemy in Wales; and after the letters were read, Major <hi>Bethel</hi> was called into the houſe. &amp; made a full relation of the whole buſineſs, which in briefe was thus.</p>
+            <p>Major Gen. <hi>Laughorn</hi> being come downe into thoſe parts, and joyning with col. <hi>Horton Powell,</hi> who had the command of the field forces which were gathered to <hi>Poyer;</hi> they drew their forces together into a body, and marched downe this
+<pb facs="tcp:161681:5"/>way through the Country toward Col. <hi>Horton</hi> at <hi>Cardiffe,</hi> which is about 50. or. 60 miles on this ſide Pembroke, and on the laſt Lords day they began to beat up Colonel <hi>Hor<g ref="char:EOLhyphen"/>tons</hi> quarters and gave fire on his Centinels; and although the intended aid under the co<g ref="char:cmbAbbrStroke">̄</g>mand of L G. <hi>Cromwel</hi> was not come up to them, yet the Officers and Souldiers appeared full of reſolution and valour. Whereupon Col. <hi>Horton</hi> was reſolved to fight with them (though far more in number then he) and on Munday morning the 8 of this inſtant <hi>May,</hi> both ſides met, and ingaged in a field fight at St. <hi>Thego,</hi> three miles from <hi>Cardiff,</hi> where Maj. Gen. <hi>Laughorn</hi> commanded in chief the Welch Forces, and Col. <hi>Horton</hi> the Parliaments Forces. And after a ſharp conflict (by the providence of God, and the gallantry of the Officers and Souldiers, Major Gen. <hi>Laughorn,</hi> and Col. <hi>Poyer</hi> were totally routed, and Col. <hi>Horton</hi> took as followeth</p>
+            <list>
+               <item>
+                  <hi>Major Gen. Stradling.</hi>
+               </item>
+               <item>
+                  <hi>Col. Philips.</hi>
+               </item>
+               <item>
+                  <hi>Col. Bars.</hi>
+               </item>
+               <item>
+                  <hi>Their Quartermaſter Gen.</hi>
+               </item>
+               <item>
+                  <hi>Two Lieutenant Colonels.</hi>
+               </item>
+               <item>3 <hi>Majors.</hi>
+               </item>
+               <item>140 <hi>Captains, and other Offi<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s.</hi>
+               </item>
+               <item>
+                  <hi>Many Country Gentlemen.</hi>
+               </item>
+               <item>3000. <hi>Common ſouldiers.</hi>
+               </item>
+               <item>4000. <hi>Armes.</hi>
+               </item>
+               <item>1200. <hi>Horſe.</hi>
+               </item>
+               <item>
+                  <hi>Many ſlain. All their Callers, Ammunition, Bagg, and Bag<g ref="char:EOLhyphen"/>gage taken. M. Gen.</hi> Laughorn <hi>and ſome other Officers eſcaped, but all that got away were ſo diſpierſed, that there is not ten to be found together.</hi>
+               </item>
+            </list>
+            <p>This buſineſs is of very great concernment, and for that it is of hard diſgeſt on to many, which doubtleſſe will endea<g ref="char:EOLhyphen"/>vour to extenua<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the truth of this Relation. Let ſuch have only patience to hear for the preſent, and they will experi<g ref="char:EOLhyphen"/>mentally ſubſcribe hereto within few dayes, and acknow<g ref="char:EOLhyphen"/>ledge that in all this action we loſt not one Officer of qua<g ref="char:EOLhyphen"/>lity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
